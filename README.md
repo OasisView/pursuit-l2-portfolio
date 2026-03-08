@@ -58,21 +58,6 @@ A Con Edison bill transparency tool for NYC residents. Enter three numbers from 
 
 ---
 
-## Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, CSS Modules, Vite, Framer Motion, Recharts, Zustand
-
-**Backend:** Node.js, Express, Flask, Supabase, PostgreSQL, MongoDB, SQLite
-
-**Auth & Security:** JWT, Flask-Bcrypt, Supabase Auth, Row Level Security
-
-**Real-Time:** Socket.io, WebSockets
-
-**Testing & DevOps:** Playwright, GitHub Actions, Vercel, Docker
-
-**AI-Native Workflow:** Building with AI tools integrated into my development process from planning through deployment
-
----
 
 ## What I Bring
 
